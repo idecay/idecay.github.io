@@ -1,4 +1,46 @@
+header {
+    display: grid;
+    grid-template-columns: 75px 75px 1fr 200px;
+    grid-template-rows: 200px;
+    justify-items: center;
+    align-items: center;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    justify-items: center;
+}
+
 h1 {
     font-family: 'Rock Salt', cursive;
-    font-size: 7rem;
+    font-size: 5rem;
+    
+    
+}
+
+header img {
+    height: 4rem;
+    width: 4rem;
+    
+}
+
+header h3 {
+    font-size: 1rem;
+    
+    font-family: 'Rock Salt', cursive;
+    
+}
+
+aside img {
+    height: 8rem;
+    width: 8rem;
+}
+
+aside ul {
+    list-style: none;
+}
+
+footer {
+    text-align: center;
 }
