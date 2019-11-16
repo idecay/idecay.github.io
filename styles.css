@@ -14,20 +14,19 @@ main {
 
 h1 {
     font-family: 'Rock Salt', cursive;
-    font-size: 5rem;
-    
-    
+    font-size: 5rem;   
 }
 
 header img {
     height: 4rem;
     width: 4rem;
-    
+    display: block;
+    margin: 0 auto;
 }
 
 header h3 {
-    font-size: 1rem;
-    
+    font-size: 1.3rem;
+    display: inline-block;
     font-family: 'Rock Salt', cursive;
     
 }
