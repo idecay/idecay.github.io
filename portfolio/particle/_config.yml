@@ -2,7 +2,7 @@
 title: Christopher's Portfolio
 description: A place for Chris to show off his skills
 baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "https://idecay.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "idecay.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Christopher Greenwood
