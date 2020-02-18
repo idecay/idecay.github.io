@@ -1,9 +1,9 @@
 _site
 .sass-cache
-node_modules
-.DS_STORE
-_site
-.sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+_site
+.sass-cache
+node_modules
+.DS_STORE
